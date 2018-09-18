@@ -1,0 +1,4 @@
+#Tue Sep 18 23:37:38 IST 2018
+base.0=/Users/kbr0003/Documents/opensource/HideIt/Temp/gradleOut/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
