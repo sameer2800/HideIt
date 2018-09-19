@@ -7,6 +7,10 @@ HideIt is an AR cross platform application built by using unity and vuforia to h
 ## Demo videos
 video link :: https://www.youtube.com/watch?v=BXsmsYBMGaE
 
+![Alt Text](https://github.com/sameer2800/HideIt/blob/master/freegifmaker.me_2cWiz.gif)
+
+Note:: please watch in  youtube for full video
+
 
 ### Prerequisites
 Unity Engine - https://unity3d.com/get-unity/download  
