@@ -18,10 +18,10 @@ Vuforia Plugin for Unity - https://developer.vuforia.com/downloads/sdk
 Add necessary build tools for android/ IOS while installing Unity  
 
 ### Installing
-`Clone the repo and open it in Unity engine  
-Import Vuforia plugin to workspace  
-start running the application in desktop, point 100 rs Indian currency note to the camera and observe the mask on the screen  
-Build the application and run in any cross platform os . `
+`Clone the repo and open it in Unity engine  `  
+`Import Vuforia plugin to workspace  ` 
+`start running the application in desktop, point 100 rs Indian currency note to the camera and observe the mask on the screen `  
+`Build the application and run in any cross platform os  `
 
 
 
